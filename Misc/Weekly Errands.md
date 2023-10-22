@@ -1,6 +1,0 @@
-- Laundry
-- Groceries
-- Derma Roll
-- Cleaning Room
-- Cleaning Apartment 
-- Meal Prep
