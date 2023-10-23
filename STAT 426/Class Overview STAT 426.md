@@ -9,7 +9,7 @@ tags: STAT426, FA2023
 
 ### Midterm 2:
 	[[Module 3 Generalized Linear Models (GLMS)]] 
-	[[Module 4 GLMs Inference, Model Comparisons, Residual Analysis & -O Overdispersion]]
+	[[Module 4 GLMs Inference, Model Comparisons, Residual Analysis & Overdispersion]]
 	[[Module 5 Logistic Regression Inference With One or Multiple Predictors]]
 	[[Module 6 Logistic Variable Selection Model Diagnostics & Predictive Metrics]]
 
