@@ -27,3 +27,17 @@ Here we add $weight - 1$ nodes between two nodes that have a weighted edge.
 
 ### Shortest Path Tree & Variants:
 ![[Shortest Path Tree & Variants]]
+
+
+### Bellman-Ford:
+![[Bellman-Ford Algorithm]]
+
+### Shortest Path in a DAG:
+![[Shortest Path in a DAG]]
+
+### All Pairs Shortest Paths:
+![[All Pairs Shortest Paths]]
+
+### Summary of Shortest Path:
+![[Pasted image 20231024134012.png]]
+![[Pasted image 20231024134027.png]]
