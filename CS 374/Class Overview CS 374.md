@@ -20,6 +20,7 @@ tags: FA2023
 - [[Directed Graphs]]
 - [[DFS]]
 - [[BFS & Shortest Paths]]
+- [[MST]]
 ### Midterm 3: 
 
 
