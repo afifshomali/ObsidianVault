@@ -7,6 +7,8 @@ tags:
 ## Topics
 	[[6.1 Logistic Regression Inference & Interpretation]]
 	[[6.2 Logistic Regression with One Categorical Predictor]]
+	[[6.3 Multiple Logistic Regression]]
+	[[6.4 Categorical and Continuous Predictors]]
 
 ## Important Concepts:
 - [[Grouped and ungrouped analysis]]
