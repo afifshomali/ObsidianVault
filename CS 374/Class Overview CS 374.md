@@ -22,7 +22,7 @@ tags: FA2023
 - [[BFS & Shortest Paths]]
 - [[MST]]
 ### Midterm 3: 
-
+- [[Reductions]] 
 
 ## Grading
 ---
