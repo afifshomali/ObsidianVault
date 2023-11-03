@@ -9,7 +9,7 @@ tags:
 
 ## Important Concepts:
 - [[Collinearity]]
-- [[ Forward selection]]
+- [[Forward selection]]
 - [[Backward selection]]
 - [[Stepwise selection]]
 - [[Akaike Information Criterion (AIC)]] 
