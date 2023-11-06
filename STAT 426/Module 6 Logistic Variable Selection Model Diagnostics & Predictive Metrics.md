@@ -15,7 +15,7 @@ tags:
 - [[Backward selection]]
 - [[Stepwise selection]]
 - [[Akaike Information Criterion (AIC)]] 
-- [[Leverage]]]
+- [[Leverage]]
 - [[Outliers]]
 - [[Cook's distance]]
 - [[Dfbeta]]
