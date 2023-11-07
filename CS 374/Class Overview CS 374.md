@@ -23,6 +23,7 @@ tags: FA2023
 - [[MST]]
 ### Midterm 3: 
 - [[Reductions]] 
+- [[NP Complete Problems & Reductions I]]
 
 ## Grading
 ---
