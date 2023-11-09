@@ -24,7 +24,7 @@ tags: FA2023
 ### Midterm 3: 
 - [[Reductions]] 
 - [[NP Complete Problems & Reductions I]]
-
+- [[NP Complete Problems & Reductions II]]
 ## Grading
 ---
 - Homework: 25%
