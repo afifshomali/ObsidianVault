@@ -6,7 +6,6 @@ tags: STAT426, FA2023
 ### Midterm 1:
 	[[Module 1 Distributions and Inference for Categorical Data]]
 	[[Module 2 Associations and Inference in Contingency Tables]]
-
 ### Midterm 2:
 	[[Module 3 Generalized Linear Models (GLMS)]] 
 	[[Module 4 GLMs Inference, Model Comparisons, Residual Analysis & Overdispersion]]
@@ -30,7 +29,7 @@ tags: STAT426, FA2023
 	- One page both sides, **No examples from textbook or HW**
 	- Put Name on page, turned in at end of exam
 	- 1st **<u>Wednesday September 27th</u>
-	- 2nd <u>Monday November 15th</u>
+	- 2nd <u>Wednesday November 15th</u>
 - Mini-Projects: 30%
 	- 1st one due **Friday October 13th Week 8**
 	- 2nd one due **Friday December 8th Week 16** 

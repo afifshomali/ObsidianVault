@@ -10,7 +10,6 @@ tags:
 	[[6.3 Multiple Logistic Regression]]
 	[[6.4 Categorical and Continuous Predictors]]
 	[[7 Binomial Response Regression with Other Link Functions]]
-
 ## Important Concepts:
 - [[Grouped and ungrouped analysis]]
 - [[Median effective level]]
