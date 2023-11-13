@@ -8,6 +8,7 @@ tags:
 	[[8.1 Variable Selection in Logistic Regression]]
 	[[8.2 Logistic Regression Diagnostics]]
 	[[8.3 Predictive Model Metrics]]
+---
 	[[8.4 Inference on Common Odds Ratios in Stratified Studies]]
 ## Important Concepts:
 - [[Collinearity]]
