@@ -26,6 +26,7 @@ tags: FA2023
 - [[NP Complete Problems & Reductions I]]
 - [[NP Complete Problems & Reductions II]]
 - [[Decidability I]]
+- [[Decidability II]]
 ## Grading
 ---
 - Homework: 25%
