@@ -29,6 +29,7 @@ If scaling by number less that one, we make the function "flatter"
 ![[Pasted image 20240118114638.png]]
 ![[Pasted image 20240118114644.png]]
 ![[Pasted image 20240118114650.png]]
+Can also do mini-batch Gradient Descent in which we sample a batch rather than just one like in SGD but still less than going through the entire dataset like in Full Batch
 ![[Pasted image 20240118114657.png]]
 ![[Pasted image 20240118114703.png]]
 ![[Pasted image 20240118114711.png]]

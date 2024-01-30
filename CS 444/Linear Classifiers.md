@@ -18,5 +18,9 @@ tags:
 ## Perceptron Training Algorithm:
 ![[Perceptron Training Algorithm]]
 ## Support Vector Machines:
-
 ![[Support Vector Machines (SVM)]]
+
+## General Recipe: Data Loss, Regularization:
+![[General Recipe Data Loss, Regularization]]
+## Multi-class Classification:
+![[Multi-class Classification]]
