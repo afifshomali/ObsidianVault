@@ -16,5 +16,7 @@ tags:
 ## Logistic Regression
 ![[Logistic Regression]]
 ## Perceptron Training Algorithm:
-
+![[Perceptron Training Algorithm]]
 ## Support Vector Machines:
+
+![[Support Vector Machines (SVM)]]

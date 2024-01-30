@@ -4,6 +4,7 @@ tags:
   - CS421/Midterm1
 ---
 ---
+## Closures & Evaluations of Function Applications
 ![[Pasted image 20240130095223.png]]
 ![[Pasted image 20240130095238.png]]
 ![[Pasted image 20240130095245.png]]
@@ -35,3 +36,4 @@ tags:
 ![[Pasted image 20240130095754.png]]
 ![[Pasted image 20240130095801.png]]
 ![[Pasted image 20240130095810.png]]
+
