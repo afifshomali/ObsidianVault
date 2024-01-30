@@ -1,5 +1,7 @@
 ---
-tags: STAT426, STAT426/Midterm1, FA2023
+tags:
+  - STAT426
+  - STAT426/Midterm1
 ---
 ## Topics:
 ---

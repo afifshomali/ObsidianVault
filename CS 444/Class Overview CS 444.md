@@ -4,10 +4,15 @@ tags:
 ---
 # Map of Content
 ---
-
+- [[Introduction]]
+- [[Linear Classifiers]]
+- 
 # Grading
 ---
-
+- MP: 80%
+	- 5 free late days for extensions
+- Quizzes: 20%
+	- No late days/extensions
 # Notes
 ---
 
