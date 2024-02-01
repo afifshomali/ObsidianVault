@@ -7,7 +7,7 @@ tags:
 ### Midterm 1:
 - [[Course Introduction, Introduction to Ocaml, Environments, Ocaml Boolean, Tuples, Functions, Closures]]
 - [[Closures and Evaluation of Function Application, Order of Evaluation in OCaml]]
-- [[Basic Recursion]]
+- [[Recursion]]
 - [[Higher-Order Functions, Pattern Matching and Recursion over Lists]]
 # Grading
 ---
