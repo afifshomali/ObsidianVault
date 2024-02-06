@@ -8,7 +8,7 @@ tags:
 - [[Course Introduction, Introduction to Ocaml, Environments, Ocaml Boolean, Tuples, Functions, Closures]]
 - [[Closures and Evaluation of Function Application, Order of Evaluation in OCaml]]
 - [[Recursion]]
-- [[Higher-Order Functions, Pattern Matching and Recursion over Lists]]
+- [[Continuations and Continuation Passing Style (CPS) Transformations]]
 # Grading
 ---
 * MP & WA: 10%

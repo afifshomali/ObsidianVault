@@ -10,6 +10,7 @@ tags:
 ![[Pasted image 20240201145126.png]]
 ![[Pasted image 20240201145135.png]]
 ![[Pasted image 20240201145143.png]]
+[[Module 2 Associations and Inference in Contingency Tables]]
 ![[Pasted image 20240201145151.png]]
 
 ## Association Tests
