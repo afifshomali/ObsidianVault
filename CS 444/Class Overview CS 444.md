@@ -6,7 +6,8 @@ tags:
 ---
 - [[Introduction]]
 - [[Linear Classifiers]]
-- 
+- [[Multi-Layer Networks]]
+- [[Backpropagation]]
 # Grading
 ---
 - MP: 80%

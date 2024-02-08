@@ -9,6 +9,7 @@ tags:
 - [[Closures and Evaluation of Function Application, Order of Evaluation in OCaml]]
 - [[Recursion]]
 - [[Continuations and Continuation Passing Style (CPS) Transformations]]
+- [[User Defined Types in Ocaml, Data Constructors and Pattern Matching, Recursive Data Types]]
 # Grading
 ---
 * MP & WA: 10%
