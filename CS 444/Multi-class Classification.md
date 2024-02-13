@@ -17,4 +17,4 @@ tags:
 ![[Pasted image 20240130111838.png]]
 
 ## SoftMax:
-![[SoftMax]]
+![[SoftMax]] 

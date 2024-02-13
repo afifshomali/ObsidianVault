@@ -33,11 +33,13 @@ tags:
 ![[Pasted image 20240201145419.png]]
 ![[Pasted image 20240201145424.png]]
 ![[Pasted image 20240201145429.png]]
+If we assume the column totals & Row totals are know then $N_{11}$ will have a hypergeometric distribution.
 ![[Pasted image 20240201145435.png]]
 ![[Pasted image 20240201145450.png]]
 ![[Pasted image 20240201145507.png]]
 ## Risk Differences
 ![[Pasted image 20240201145538.png]]
+Can also get confidence intervals for difference in proportions, want to check if there is difference in risk between two sub groups of a population. For example male vs female risk for some disease.
 ![[Pasted image 20240201145545.png]]
 ![[Pasted image 20240201145551.png]]
 ![[Pasted image 20240201145601.png]]
@@ -51,4 +53,3 @@ tags:
 ![[Pasted image 20240201145654.png]]
 ![[Pasted image 20240201145705.png]]
 ![[Pasted image 20240201145710.png]]
-

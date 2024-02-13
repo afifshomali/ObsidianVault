@@ -16,6 +16,7 @@ tags:
 ![[Pasted image 20240208102250.png]]
 ![[Pasted image 20240208102300.png]]
 ![[Pasted image 20240208102310.png]]
+Each of the integers have a different meaning, which is denoted by the currency type
 ![[Pasted image 20240208102331.png]]
 ![[Pasted image 20240208102338.png]]
 ![[Pasted image 20240208102353.png]]
