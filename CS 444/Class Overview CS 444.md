@@ -8,6 +8,7 @@ tags:
 - [[Linear Classifiers]]
 - [[Multi-Layer Networks]]
 - [[Backpropagation]]
+- [[Convolutional neural networks]]
 # Grading
 ---
 - MP: 80%

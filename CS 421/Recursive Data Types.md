@@ -15,6 +15,7 @@ tags:
 ![[Pasted image 20240208102756.png]]
 ![[Pasted image 20240208102807.png]]
 ![[Pasted image 20240208102829.png]]
+Making decision to count function names as variables as well with FunExp
 ![[Pasted image 20240208102849.png]]
 ![[Pasted image 20240208102901.png]]
 ![[Pasted image 20240208102907.png]]

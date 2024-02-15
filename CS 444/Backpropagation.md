@@ -50,13 +50,19 @@ Need to have dimensions match for upstream gradient since we use it to update th
 ![[Pasted image 20240208113540.png]]
 Jacobian is a diagonal matrix. We just need indicator function to compute the gradient, so due to structure we don't need the full matrix. If Data is not normalized, the ReLU will end messing up the gradient so we don't have any updates. 
 ![[Pasted image 20240213114450.png]]
-
+Unless the inputs are all close to zero, all the gradients will be close to zero. So we will keep multiplying by numbers close to zero so it would eventually get to a gradient of zero. This is why sigmoid doesn't work too well with deep neural networks, this is known as the vanishing gradient problem. 
 ![[Pasted image 20240208113553.png]]
+$W$ is weight matrix. $\dfrac{dz}{dx}$ is the Jacobian. $\dfrac{dz}{dW}$ is a sort of 3-D Jacobian, but when the weights update one of the dimensions will cancel so we still get the $M$ x $N$ matrix. But in practice we can work around this and not end up using a 3-D Matrix. 
 ![[Pasted image 20240208113601.png]]
+$x$ is $(1, M)$ and $W$ is $(M, N)$
+Derivative of One term of Summation will be just the element $W^{(ij)}$ 
 ![[Pasted image 20240208113609.png]]
+The Jacobian is just the Weight Matrix transposed. So we have the downstream gradient of error. But now need handle the weight update.
 ![[Pasted image 20240208113621.png]]
+Restrict chain rule to one element of W, which can be written as a sum. but since if $k != j$ the term in the sum is zeroed out, we just get the derivative of $z^{(j)}$ with respect to the single element of $W$
 ![[Pasted image 20240208113629.png]]
 ![[Pasted image 20240208113640.png]]
+So then don't end up needing the 3-D matrix to calculate the weight update.
 ![[Pasted image 20240208113648.png]]
 ![[Pasted image 20240208113659.png]]
 
