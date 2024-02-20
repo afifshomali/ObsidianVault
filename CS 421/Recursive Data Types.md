@@ -33,3 +33,5 @@ Making decision to count function names as variables as well with FunExp
 ![[Pasted image 20240208103139.png]]
 ![[Pasted image 20240208103147.png]]
 ![[Pasted image 20240208103152.png]]
+![[Pasted image 20240220095308.png]]
+![[Pasted image 20240220095535.png]]
