@@ -16,6 +16,7 @@ IQR plots for each category, one-way Anova assumes all samples from Normal Distr
 ## One-Way ANOVA
 ![[Pasted image 20240208151326.png]]
 Each group/ level of predictor has a an $\alpha_i$ that changes the global mean $\mu$ by some amount, can be higher or lower.
+More categorical predictors will lead to a model with more ways. eg. 3 categorical predictors means 3-way model.
 ![[Pasted image 20240208151415.png]]
 This tests if having $\alpha_i$ has any effect on finding the value of the response.
 ![[Pasted image 20240208151421.png]]
@@ -26,10 +27,13 @@ This tests if having $\alpha_i$ has any effect on finding the value of the respo
 ## Two-Way Anova
 ![[Pasted image 20240208151515.png]]
 ![[Pasted image 20240208151525.png]]
+Usually start from main effects model & then try to simplify it in case interaction terms don't have any effects.
+The interaction model is the more general additive model.
 ![[Pasted image 20240208151554.png]]
+$\hat\mu$ is the global sample mean. The $\hat\alpha_i$ is calculated by taking the mean of the group/level & subtracting the global mean, so that becomes the effect on the mean cause by that group/level.
 ![[Pasted image 20240208151600.png]]
+This looks at every single term in the model to check whether each individual term is zero or something significant. The $SS_{total} = SS_{model} + SS_{error}$ . The $SS_{model}$ is the sum of squares for all the terms without the error. In this example those terms are A, B and AB.
 ![[Pasted image 20240208151606.png]]
-
 ## F-Test
 ![[Pasted image 20240208151639.png]]
 ![[Pasted image 20240208151645.png]]
@@ -61,6 +65,7 @@ This tests if having $\alpha_i$ has any effect on finding the value of the respo
 ## Three-way Anova & other exercises:
 ![[Pasted image 20240213141343.png]]
 ![[Pasted image 20240213141403.png]]
+If the higher order interaction terms are significant then you should include all the lower interaction terms even if they aren't significant. 
 ![[Pasted image 20240213141409.png]]
 ![[Pasted image 20240213141415.png]]
 ![[Pasted image 20240213141420.png]]
