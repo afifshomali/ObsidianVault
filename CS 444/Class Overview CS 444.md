@@ -9,7 +9,8 @@ tags:
 - [[Multi-Layer Networks]]
 - [[Backpropagation]]
 - [[Convolutional neural networks]]
-- [[Convolutional architectures]]
+- [[Convolutional Architectures]]
+- [[Neural Network Training]]
 # Grading
 ---
 - MP: 80%

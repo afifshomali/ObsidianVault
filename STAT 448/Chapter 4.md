@@ -34,8 +34,7 @@ $\hat\mu$ is the global sample mean. The $\hat\alpha_i$ is calculated by taking 
 ![[Pasted image 20240208151600.png]]
 This looks at every single term in the model to check whether each individual term is zero or something significant. The $SS_{total} = SS_{model} + SS_{error}$ . The $SS_{model}$ is the sum of squares for all the terms without the error. In this example those terms are A, B and AB.
 ![[Pasted image 20240208151606.png]]
-## F-Test
-![[Pasted image 20240208151639.png]]
+## F-Test 
 ![[Pasted image 20240208151645.png]]
 ![[Pasted image 20240208151652.png]]
 ![[Pasted image 20240213141059.png]]

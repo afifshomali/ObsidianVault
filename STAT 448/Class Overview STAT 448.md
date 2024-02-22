@@ -8,6 +8,8 @@ tags:
 - [[Chapter 2]]
 - [[Chapter 3]]
 - [[Chapter 4]]
+- [[Chapter 5]]
+- 
 # Grading
 ---
 - Homework: 45%
@@ -17,6 +19,7 @@ tags:
 	- Lowest Score Dropped
 - Final Project: 30%
 	- Teams in place by week 6
+	- Progress Report week 10
 - Weekly Discussion Board: 5%
 	- Need 8 out of 16 Weeks for full credit 
 # Notes
