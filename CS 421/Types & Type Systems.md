@@ -41,9 +41,22 @@ It is a relation operator so it is the outermost operations so we use the Binary
 ![[Pasted image 20240220100840.png]]
 ![[Pasted image 20240220100847.png]]
 ![[Pasted image 20240220100858.png]]
+
 ![[Pasted image 20240220100910.png]]
 ![[Pasted image 20240220100916.png]]
 ![[Pasted image 20240220100922.png]]
 ![[Pasted image 20240220100928.png]]
+
+
+![[Pasted image 20240227102700.png]]
+![[Pasted image 20240227102710.png]]
+![[Pasted image 20240227102726.png]]
+![[Pasted image 20240227102744.png]]
+![[Pasted image 20240227102750.png]]
+![[Pasted image 20240227102758.png]]
+![[Pasted image 20240227102807.png]]
+![[Pasted image 20240227102813.png]]
+![[Pasted image 20240227102823.png]]
+
 ![[Pasted image 20240220100935.png]]
 ![[Pasted image 20240220100942.png]]

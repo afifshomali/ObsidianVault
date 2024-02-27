@@ -11,6 +11,7 @@ tags:
 - [[Continuations and Continuation Passing Style (CPS) Transformations]]
 - [[User Defined Types in Ocaml, Data Constructors and Pattern Matching, Recursive Data Types]]
 - [[Types & Type Systems]]
+- [[Polymorphic Type Derivation]]
 # Grading
 ---
 * MP & WA: 10%
