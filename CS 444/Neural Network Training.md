@@ -4,7 +4,6 @@ tags:
 ---
 ---
 ![[Pasted image 20240222120731 1.png]]
-
 ## Optimization
 ![[Pasted image 20240222120749 1.png]]
 ![[Pasted image 20240222120757 1.png]]

@@ -12,6 +12,7 @@ tags:
 - [[User Defined Types in Ocaml, Data Constructors and Pattern Matching, Recursive Data Types]]
 - [[Types & Type Systems]]
 - [[Polymorphic Type Derivation]]
+- [[Type Inference]]
 # Grading
 ---
 * MP & WA: 10%
