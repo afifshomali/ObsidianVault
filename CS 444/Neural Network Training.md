@@ -48,6 +48,7 @@ tags:
 ## Regularization:
 ![[Pasted image 20240227110338.png]]
 ![[Pasted image 20240227110344.png]]
+The $L_{data}$ term attempts to increase the accuracy within the training data
 ![[Pasted image 20240227110349.png]]
 ![[Pasted image 20240227110355.png]]
 ![[Pasted image 20240227110400.png]]

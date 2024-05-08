@@ -13,6 +13,7 @@ tags:
 - [[Types & Type Systems]]
 - [[Polymorphic Type Derivation]]
 - [[Type Inference]]
+- [[Unification]]
 # Grading
 ---
 * MP & WA: 10%

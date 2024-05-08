@@ -8,6 +8,7 @@ tags:
 ![[Pasted image 20240227144611.png]]
 ![[Pasted image 20240227144618.png]]
 ![[Pasted image 20240227144623.png]]
+
 ![[Pasted image 20240227144628.png]]
 
 ## 7.2

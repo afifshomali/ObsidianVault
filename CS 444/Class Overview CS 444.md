@@ -11,6 +11,8 @@ tags:
 - [[Convolutional neural networks]]
 - [[Convolutional Architectures]]
 - [[Neural Network Training]]
+- [[Object Detection]]
+- [[Dense Predictions]]
 # Grading
 ---
 - MP: 80%
