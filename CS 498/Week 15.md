@@ -4,4 +4,4 @@ tags:
   - CS498/Midterm2
 ---
 ---
-# [[Container Orchestration Docker]]
+# [[Kubernetes Container Orchestration]]
