@@ -5,7 +5,8 @@ tags:
 ---
 # Map Of Content
 ---
-
-
+- [[How it all works]]
+- [[Variables & Logic]]
+- 
 # Grading
 ---
