@@ -9,7 +9,8 @@ tags:
  - [[#Data Objects & Attribute Types]]
  - [[#Basic Statistical Description of Data]]
  - [[#Hypothesis Testing]]
- - 
+ - [[#Hypothesis Testing]]
+ - [[#Measuring Data Similarity & Correlation]]
 ## Types of Data
 ---
 ![[Pasted image 20240829110123.png]]
@@ -75,3 +76,48 @@ Amazon Product Rating is an Ordinal variable, but we can't really quantify the d
 ![[Pasted image 20240829114401.png]]
 ![[Pasted image 20240829114443.png]]
 ![[Pasted image 20240829114429.png]]
+![[Pasted image 20240903110220.png]]
+![[Pasted image 20240903110228.png]]
+![[Pasted image 20240903110245.png]]
+### Example for $\chi^2$ 
+
+![[Pasted image 20240903110304.png]]
+![[Pasted image 20240903110310.png]]
+![[Pasted image 20240903110348.png]]
+![[Pasted image 20240903110400.png]]
+![[Pasted image 20240903110407.png]]
+
+## Measuring Data Similarity & Correlation
+![[Pasted image 20240903110541.png]]
+![[Pasted image 20240903110632.png]]
+![[Pasted image 20240903110644.png]]
+![[Pasted image 20240903110723.png]]
+![[Pasted image 20240903110730.png]]
+![[Pasted image 20240903110739.png]]
+![[Pasted image 20240903110753.png]]
+![[Pasted image 20240903110801.png]]
+![[Pasted image 20240903110812.png]]
+No not really we would have to make some transformation to the variable to be able to have it distributed like a normal distribution
+![[Pasted image 20240903110916.png]]
+![[Pasted image 20240903110924.png]]
+![[Pasted image 20240903110929.png]]
+
+## Data Visualization
+![[Pasted image 20240903111036.png]]
+![[Pasted image 20240903111044.png]]
+![[Pasted image 20240903111053.png]]
+![[Pasted image 20240903111059.png]]
+![[Pasted image 20240903111108.png]]
+![[Pasted image 20240903111118.png]]
+![[Pasted image 20240903111126.png]]
+![[Pasted image 20240903111143.png]]
+![[Pasted image 20240903111151.png]]
+![[Pasted image 20240903111158.png]]
+![[Pasted image 20240903111210.png]]
+![[Pasted image 20240903111233.png]]
+![[Pasted image 20240903111239.png]]
+![[Pasted image 20240903111247.png]]
+![[Pasted image 20240903111254.png]]
+![[Pasted image 20240903111302.png]]
+![[Pasted image 20240903111309.png]]
+
