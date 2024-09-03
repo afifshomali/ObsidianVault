@@ -9,7 +9,7 @@ tags:
  - [[#Data Objects & Attribute Types]]
  - [[#Basic Statistical Description of Data]]
  - [[#Hypothesis Testing]]
- - [[#Hypothesis Testing]]
+ - [[#Data Visualization]]
  - [[#Measuring Data Similarity & Correlation]]
 ## Types of Data
 ---
@@ -73,6 +73,7 @@ Amazon Product Rating is an Ordinal variable, but we can't really quantify the d
 ![[Pasted image 20240829114234.png]]
 - [[Pearson chi-squared statistic & Test]]
 ![[Pasted image 20240829114341.png]]
+Since you know row sums and column sums, we have 4 total cells that a free to vary, the other 5 cells will be fixed.
 ![[Pasted image 20240829114401.png]]
 ![[Pasted image 20240829114443.png]]
 ![[Pasted image 20240829114429.png]]
