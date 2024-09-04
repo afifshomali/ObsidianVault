@@ -5,7 +5,7 @@ tags:
 # Map of Content
 ---
 - [[SPRING2024/CS 498/Week 1]]
-- [[Week 2]]
+- [[SPRING2024/CS 498/Week 2]]
 - [[Week 3]]
 - [[Week 6]]
 # Grading
