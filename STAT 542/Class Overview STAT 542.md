@@ -10,8 +10,7 @@ tags:
 
 # Grading
 ---
-- Quizzes: 180 points = ~75%
-- Coding Assignments: 30 points = ~12.5%
-- Projects: 30 points = ~12.5%
+- Quizzes: 180 points = 40%
+- Coding Assignments: 30 points = 30%
+- Projects: 30 points = 30%
 - Total Points 240
-**Canvas point scale could be wrong and weight could be different
