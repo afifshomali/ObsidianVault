@@ -6,7 +6,7 @@ tags:
 # Map Of Content
 ---
 - [[Variables & Logic]]
-- 
+- [[Functions & Loops]]
 # Grading
 ---
 Midterm: 30%
