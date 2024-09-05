@@ -10,7 +10,7 @@ tags:
  - [[#Basic Statistical Description of Data]]
  - [[#Hypothesis Testing]]
  - [[#Data Visualization]]
- - [[#Measuring Data Similarity & Correlation]]
+ - [[Measuring Data Similarity & Correlation]]
 ## Types of Data
 ---
 ![[Pasted image 20240829110123.png]]
@@ -87,21 +87,6 @@ Since you know row sums and column sums, we have 4 total cells that a free to va
 ![[Pasted image 20240903110348.png]]
 ![[Pasted image 20240903110400.png]]
 ![[Pasted image 20240903110407.png]]
-
-## Measuring Data Similarity & Correlation
-![[Pasted image 20240903110541.png]]
-![[Pasted image 20240903110632.png]]
-![[Pasted image 20240903110644.png]]
-![[Pasted image 20240903110723.png]]
-![[Pasted image 20240903110730.png]]
-![[Pasted image 20240903110739.png]]
-![[Pasted image 20240903110753.png]]
-![[Pasted image 20240903110801.png]]
-![[Pasted image 20240903110812.png]]
-No not really we would have to make some transformation to the variable to be able to have it distributed like a normal distribution
-![[Pasted image 20240903110916.png]]
-![[Pasted image 20240903110924.png]]
-![[Pasted image 20240903110929.png]]
 
 ## Data Visualization
 ![[Pasted image 20240903111036.png]]
