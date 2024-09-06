@@ -7,6 +7,7 @@ tags:
 ---
 - [[Variables & Logic]]
 - [[Functions & Loops]]
+- [[String Manipulation]]
 # Grading
 ---
 Midterm: 30%

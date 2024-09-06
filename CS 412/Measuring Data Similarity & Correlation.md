@@ -26,6 +26,8 @@ No not really we would have to make some transformation to the variable to be ab
 ![[Pasted image 20240905105909.png]]
 ![[Pasted image 20240905105919.png]]
 ![[Pasted image 20240905110944.png]]
+- Problem is that for example when we are in a grocery store we don't buy most things, so our $t$ value will very small, so our distances will be very small
+- This makes all people look very similar, so instead we use asymmetric binary variables 
 ![[Pasted image 20240905110951.png]]
 ![[Pasted image 20240905111003.png]]
 ![[Pasted image 20240905111012.png]]
