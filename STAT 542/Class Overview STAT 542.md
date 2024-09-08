@@ -7,6 +7,7 @@ tags:
 # Map of Content
 ---
 - [[Lecture 1 & 2]]
+- [[STAT 542 Week 2]]
 
 # Grading
 ---
