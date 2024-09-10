@@ -11,6 +11,7 @@ tags:
  - [[#Hypothesis Testing]]
  - [[#Data Visualization]]
  - [[Measuring Data Similarity & Correlation]]
+ - [[Data Cleaning, Integration & Reduction]]
 ## Types of Data
 ---
 ![[Pasted image 20240829110123.png]]
