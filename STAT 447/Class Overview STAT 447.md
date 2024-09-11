@@ -9,6 +9,8 @@ tags:
 - [[Functions & Loops]]
 - [[String Manipulation]]
 - [[Dictionaries, Tuples & Sets]]
+- [[Comprehensions & Anonymous Functions]]
+- 
 # Grading
 ---
 Midterm: 30%
