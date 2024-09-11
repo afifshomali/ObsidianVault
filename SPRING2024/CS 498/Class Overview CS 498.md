@@ -6,7 +6,7 @@ tags:
 ---
 - [[SPRING2024/CS 498/Week 1]]
 - [[SPRING2024/CS 498/Week 2]]
-- [[Week 3]]
+- [[SPRING2024/CS 498/Week 3]]
 - [[Week 6]]
 # Grading
 ---
