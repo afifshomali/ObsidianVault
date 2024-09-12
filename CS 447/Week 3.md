@@ -3,7 +3,7 @@ tags:
   - CS447
 ---
 ---
-
+![[Pasted image 20240911195317.png]]
 ## [[What is Classification]]
 
 ## [[Naive Bayes Classifier]]
