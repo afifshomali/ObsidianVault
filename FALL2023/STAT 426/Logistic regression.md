@@ -26,6 +26,8 @@ If scaling by number less that one, we make the function "flatter"
 ![[Pasted image 20240118114611.png]]
 ![[Pasted image 20240118114623.png]]
 ![[Pasted image 20240118114631.png]]
+## Gradient Descent
+---
 ![[Pasted image 20240118114638.png]]
 ![[Pasted image 20240118114644.png]]
 ![[Pasted image 20240118114650.png]]
