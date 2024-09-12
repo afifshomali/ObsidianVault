@@ -35,11 +35,13 @@ tags:
 ![[Pasted image 20240910115712.png]]
 ![[Pasted image 20240910115726.png]]
 ![[Pasted image 20240910115733.png]]
+- We see that the equal width and depth binning can divide a group of points in half, while the k means clustering does a better job of separating the different color points
 ![[Pasted image 20240910115743.png]]
 
 ## Data Reduction
 ---
 ![[Pasted image 20240910115759.png]]
+
 ![[Pasted image 20240910115806.png]]
 ![[Pasted image 20240910115821.png]]
 ![[Pasted image 20240910115828.png]]

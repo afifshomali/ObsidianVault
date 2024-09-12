@@ -12,4 +12,4 @@ tags:
 
 ## [[Probabilistic Classifiers & Probability Models]]
 
-## [[Logistic Regression Classifiers]]
+## [[Training Logistic Regression Classifiers]]
