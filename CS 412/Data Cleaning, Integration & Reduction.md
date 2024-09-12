@@ -41,16 +41,19 @@ tags:
 ## Data Reduction
 ---
 ![[Pasted image 20240910115759.png]]
-
 ![[Pasted image 20240910115806.png]]
+- Instead of keeping all the data and then comparing new datapoints, we can instead fit a model so we don't have store a really large amount of data
 ![[Pasted image 20240910115821.png]]
 ![[Pasted image 20240910115828.png]]
+- [[Module 3 Generalized Linear Models (GLMS)|GLM]]
 ![[Pasted image 20240910115836.png]]
 - [[Multiple logistic regression]]
 - [[Loglinear Model]]
 ![[Pasted image 20240910115922.png]]
+- Equal Frequency is essential keeping the same y-axis height for all bins, but then the frequencies inside the bin itself will be different 
 ![[Pasted image 20240910115928.png]]
 ![[Pasted image 20240910115935.png]]
+- Difficult to get un-biased samples, so need techniques to mitigate that 
 ![[Pasted image 20240910115941.png]]
 ![[Pasted image 20240910115948.png]]
 ![[Pasted image 20240910115956.png]]
