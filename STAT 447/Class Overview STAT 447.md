@@ -10,7 +10,7 @@ tags:
 - [[String Manipulation]]
 - [[Dictionaries, Tuples & Sets]]
 - [[Comprehensions & Anonymous Functions]]
-- 
+- [[Error Handling]]
 # Grading
 ---
 Midterm: 30%
