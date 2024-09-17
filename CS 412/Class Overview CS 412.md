@@ -7,10 +7,10 @@ tags:
 ---
 - [[Course Introduction]]
 - [[Data & Measurements]]
-- [[Classification: Basic Concepts]]
+- [[Classification Basic Concepts]]
 - [[Classification: Advanced Concepts]]
 - [[Deep Learning]]
-- [[Cluster Analysis: Basic Concepts]]
+- [[Cluster Analysis Basic Concepts]]
 - [[Mining Frequent Patterns, Associations, and Correlations]]
 - [[Advanced Pattern Mining]]
 
