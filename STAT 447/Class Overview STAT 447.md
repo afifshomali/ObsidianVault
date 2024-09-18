@@ -11,6 +11,7 @@ tags:
 - [[Dictionaries, Tuples & Sets]]
 - [[Comprehensions & Anonymous Functions]]
 - [[Error Handling]]
+- [[Classes & OOP]]
 # Grading
 ---
 Midterm: 30%
