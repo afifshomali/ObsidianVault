@@ -15,6 +15,7 @@ tags:
 ## Algorithm
 ---
 ![[{97635AEA-3D9D-4FEF-8162-9671478814D3}.png]]
+- Cannot search all possible decision trees, so instead use a greedy algorithm, so we won't get global optimum 
 ![[{7670665B-4E23-4061-94EB-AEE8FDA666EB}.png]]
 ![[{CB3E1266-63DE-4748-8D24-E4BECB729CB2}.png]]
 
@@ -27,6 +28,7 @@ tags:
 ---
 ![[{B4EF22BB-C994-46BB-817A-2BD38DB70613}.png]]
 ![[{AF44E000-2E1A-4948-85DB-B0234475B857}.png]]
+- It is biased towards attributes that can be split many times
 ![[{72E99A0F-6F4B-42F3-A383-4B1B7D15A752}.png]]
 ![[{EB71201D-6FC9-4AA7-8BC5-6BAEF05703D2}.png]]
 ![[{C1A5B726-A0E9-421D-BA02-F3729906F6E2}.png]]
@@ -39,7 +41,6 @@ tags:
 ## Gain Ratio
 ---
 ![[{424C77EB-7ED3-40E7-BDA4-103F598811C0}.png]]
-
 ## Gini Index
 ---
 ![[{E7777E34-A589-4238-80C0-9D07C2035A04}.png]]
