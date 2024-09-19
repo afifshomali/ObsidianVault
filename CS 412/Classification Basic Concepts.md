@@ -14,3 +14,5 @@ tags:
 ### - [[Decision Tree Induction#Gain Ratio|Gain Ratio]]
 ### - [[Decision Tree Induction#Gini Index|Gini Index]]
 
+## [[Bayes Rule & Naive Bayes]]
+
