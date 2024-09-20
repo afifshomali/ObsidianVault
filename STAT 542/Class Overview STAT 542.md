@@ -6,9 +6,10 @@ tags:
 ---
 # Map of Content
 ---
-- [[Lecture 1 & 2]]
+- [[Supervised Learning Overview, Bias & Variance, LS & KNN]]
 - [[STAT 542 Week 2]]
 - [[STAT 542 Week 3]]
+- [[STAT 542 Week 4]]
 
 # Grading
 ---

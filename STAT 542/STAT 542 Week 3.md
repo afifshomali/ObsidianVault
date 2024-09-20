@@ -3,6 +3,8 @@ tags:
   - STAT542
 ---
 ---
-# [[September 10th]]
+# [[Estimation vs. Testing, Price for having a Large Model]]
 
-# [[September 12th]]
+# [[Linearly Independent, Uncorrelated, Independent]]
+
+# [[Lasso & Ridge Overview, PCA Regression]]

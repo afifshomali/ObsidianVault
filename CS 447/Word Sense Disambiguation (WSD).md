@@ -14,7 +14,7 @@ tags:
 - Depends on the quality of dictionary/thesaurus that you have, we don't have to do WSD on the context words, so we avoid nested WSD searches
 - This is due to the context words having a very low likelihood of having the same ambiguity as the word we are trying to find the sense for
 ![[{FF25FA35-BE85-4148-BF8F-D822DDE943CA}.png]]
-[[Lecture 1 & 2#Supervised Learning Overview]]
+[[Supervised Learning Overview, Bias & Variance, LS & KNN#Supervised Learning Overview]]
 ![[{2D7FA9EB-44B5-4046-A522-1537FE996D2A}.png]]
 ![[{04844489-DA1D-493D-9FFA-60F7D5D1E188}.png]]
 ## Yarowsky's weakly supervised algorithm

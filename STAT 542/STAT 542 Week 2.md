@@ -3,6 +3,6 @@ tags:
   - STAT542
 ---
 ---
-# [[September 3rd]]
+# [[Linear Regression, Partial Regression Coefficients]]
 
-# [[September 5th]]
+# [[Ordinary Least Squares as Maximum Likelihood Estimate]]
