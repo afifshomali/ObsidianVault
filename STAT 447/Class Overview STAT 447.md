@@ -12,6 +12,8 @@ tags:
 - [[Comprehensions & Anonymous Functions]]
 - [[Error Handling]]
 - [[Classes & OOP]]
+- [[Git]]
+- [[File IO]]
 # Grading
 ---
 Midterm: 30%
