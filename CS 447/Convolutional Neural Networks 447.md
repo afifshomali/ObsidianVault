@@ -30,3 +30,5 @@ Convolutional layers are typically followed by ReLus
 ---
 ![[{1519A85D-0817-45FD-B86C-BD49DDE8917E}.png]]
 Filter size now specifies the N-gram size and stride how we skip around and what N-grams we will select
+![[{C13B3876-61AB-49B7-ABCE-AE362D809B77}.png]]
+![[{4154BC5A-F56D-4307-9401-11AB65E07A38}.png]]
