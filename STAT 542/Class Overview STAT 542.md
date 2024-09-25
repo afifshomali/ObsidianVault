@@ -10,6 +10,7 @@ tags:
 - [[STAT 542 Week 2]]
 - [[STAT 542 Week 3]]
 - [[STAT 542 Week 4]]
+- [[STAT 542 Week 5]]
 
 # Grading
 ---
