@@ -14,6 +14,8 @@ tags:
 - [[Classes & OOP]]
 - [[Git]]
 - [[File IO]]
+- [[NumPy]]
+- 
 # Grading
 ---
 Midterm: 30%

@@ -1,6 +1,6 @@
 ---
 tags:
-  - CS447
+  - STAT447
 ---
 ---
 ![[{7306DBAE-B2DB-475D-B4CE-9189EDAC7376}.png]]
