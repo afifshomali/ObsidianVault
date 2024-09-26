@@ -15,6 +15,8 @@ For $\{y_i, x_i\}_{i=1}^n$   and $x_i \in [a,b]$
 ![[{E4EA05BD-4A52-4700-8500-1B49BEEA356C}.png]]
 *$\xi$ is the squiggly character not cphsi, xi
 
+## Cubic Spline Rules
+---
 Let $g$ be a cubic spline on $[a,b]$ with respect to $\{ \xi_j\}_{j=1}^m$ then we must satisfy the following:
 
 1) 
@@ -27,3 +29,7 @@ $g''(\xi_i^+) = g''(\xi_i^-)$
 
 So for each knot/interval boundary, we need $g$ to be continuous up until the 2nd derivative, So each of the interior know must have same derivatives on either side of the knot .
 ![[{E61B2145-13A4-46AA-AC12-875A911F106C} 1.png]]
+
+## Splines, Cubic & Natural Splines
+---
+![[Splines]]

@@ -4,3 +4,5 @@ tags:
 ---
 ---
 # [[Non Linear (Polynomial) Regression]]
+
+# [[Splines]]
