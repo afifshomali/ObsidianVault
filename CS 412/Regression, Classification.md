@@ -20,6 +20,37 @@ tags:
 ----
 ![[{CFFBB2BC-A1AF-433C-8C04-9DE5D8B708B5}.png]]
 [[Neural Network Training#Optimization]]
+![[{A0335352-D9CD-4871-8242-3D440BFB508F}.png]]
 
-[[Probit regression]]
+## Linear Classifier: Perceptron
+---
+![[{C52E6587-5712-4EF5-B561-0BDBA467B1C6}.png]]
+[[Perceptron Training Algorithm]]
+![[{361AFB33-1894-46E3-B8BE-E60B46A1E46E}.png]]
+[[Maximum likelihood estimation]]
+![[{534C751D-9D53-4A78-8838-B4D13506E843}.png]]
+[[Bernoulli distribution|Bernoulli]]
+![[{C1B5064F-978E-4177-8980-A14C8A3046BF}.png]]
+![[{1207CB27-AD35-4D21-A94C-0A332BAD3664}.png]]
+![[{BCF69429-E3BC-461D-86CA-14079E76DF4B}.png]]
+
+## Logistic Regression
+---
 [[Logistic regression]]
+![[{ED637246-D071-437D-B388-759CCF2B04D3}.png]]
+![[{95045532-4E89-4D6B-8224-8A5D5851C1F1}.png]]
+![[{B0ED4CD2-1418-4A89-9E31-CE1924E71869}.png]]
+![[{31BA9C5C-C887-44A1-85B2-D53EBFB0438D}.png]]
+[[Training Logistic Regression Classifiers]]
+![[{A2B98936-D009-4005-AC6B-16A60F7B5CD8}.png]]
+![[{2353DD6F-DBD1-4614-9121-F3361EE02E33}.png]]
+![[{6FD35D1C-8298-4B66-A22D-7E2FFFB18DDA}.png]]
+
+
+## Linear Classifiers: General Ideas
+---
+![[{691BB341-1147-4374-9DF1-25A1563E6E9C}.png]]
+![[{9506CB00-6929-4FC1-96FC-EDF6DC2ED0F1}.png]]
+![[{E490BF61-0E29-463B-A2F1-BE29C1882489}.png]]
+![[{5873BE79-B157-4A6C-B422-95956CCAC7DB}.png]]
+![[{ADF99564-0313-4A1E-8799-FCA42751191B}.png]]
