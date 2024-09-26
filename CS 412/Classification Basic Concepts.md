@@ -18,6 +18,12 @@ tags:
 
 ## [[Regression, Classification]]
 
+### - [[Regression, Classification#Linear Regression| Linear Regression]]
+### - [[Regression, Classification#Gradient Descent|Gradient Descent]]
+### - [[Regression, Classification#Linear Classifier Perceptron| Perceptron]]
+### - [[Regression, Classification#Logistic Regression| Logistic Regression]]
+
+
 
 
 
