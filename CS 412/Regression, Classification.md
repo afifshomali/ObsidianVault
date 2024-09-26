@@ -1,0 +1,25 @@
+---
+tags:
+  - CS412
+---
+---
+## Linear Regression
+---
+[[Linear Regression]]
+![[{4D08066F-AA57-48EA-9750-C271CB587FD1}.png]]
+![[{A7907208-3C99-43F3-BF38-3B5E478E3270}.png]]
+![[{F1BB656D-B1CF-4BC2-ABE7-10A948DBB53A}.png]]
+![[{629F4E62-6A17-4750-920E-56198CA01596}.png]]
+![[{BAE8D2ED-5FDB-460D-AA57-05142C53D264}.png]]
+![[{4AE915FA-97EF-423C-85F3-DCF33E3DB97D}.png]]
+![[{04BD05A0-9116-481F-ABB2-AE858025FCF2}.png]]
+![[{E1C94308-03B9-4B16-8208-6C1366060803} 1.png]]
+![[{640C1257-5732-497F-BA33-495F5F9ABF33}.png]]
+
+## Gradient Descent
+----
+![[{CFFBB2BC-A1AF-433C-8C04-9DE5D8B708B5}.png]]
+[[Neural Network Training#Optimization]]
+
+[[Probit regression]]
+[[Logistic regression]]
