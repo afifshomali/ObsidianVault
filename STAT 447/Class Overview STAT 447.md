@@ -15,7 +15,7 @@ tags:
 - [[Git]]
 - [[File IO]]
 - [[NumPy]]
-- 
+- [[Matplotlib]]
 # Grading
 ---
 Midterm: 30%
