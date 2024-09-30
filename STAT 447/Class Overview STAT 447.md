@@ -16,6 +16,7 @@ tags:
 - [[File IO]]
 - [[NumPy]]
 - [[Matplotlib]]
+- [[Matplotlib II]]
 # Grading
 ---
 Midterm: 30%
