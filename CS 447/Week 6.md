@@ -7,7 +7,7 @@ tags:
 
 # [[English Parts of Speech]]
 
-# [[Hidden Markov Models for POS Tagging]]
+# [[Hidden Markov Models (HMMs) for POS Tagging]]
 
 # [[Dynamic Programming for HMMs]]
 
