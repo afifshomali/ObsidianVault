@@ -17,6 +17,7 @@ tags:
 - [[NumPy]]
 - [[Matplotlib]]
 - [[Matplotlib II]]
+- [[Pandas I]]
 # Grading
 ---
 Midterm: 30%
