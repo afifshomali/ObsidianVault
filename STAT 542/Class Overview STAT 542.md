@@ -11,7 +11,7 @@ tags:
 - [[STAT 542 Week 3]]
 - [[STAT 542 Week 4]]
 - [[STAT 542 Week 5]]
-
+- [[STAT 542 Week 6]]
 # Grading
 ---
 - Quizzes: 180 points = 40%
