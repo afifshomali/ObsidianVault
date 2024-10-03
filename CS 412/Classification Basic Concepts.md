@@ -23,7 +23,6 @@ tags:
 ### - [[Regression, Classification#Linear Classifier Perceptron| Perceptron]]
 ### - [[Regression, Classification#Logistic Regression| Logistic Regression]]
 
-
-
+## [[Evaluation]]
 
 
