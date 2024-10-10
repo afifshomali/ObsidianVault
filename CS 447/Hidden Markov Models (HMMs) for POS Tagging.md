@@ -3,6 +3,7 @@ tags:
   - CS447
 ---
 ---
+[[Hidden Markov Models]]
 ![[{77A2A590-1BD2-46BC-BDD1-1DD65E0C2948}.png]]
 Want to find the POS tagging with the maximum probability
 ![[{86FDA647-5FCD-49E8-85FF-D6D31DAEBDE9}.png]]
