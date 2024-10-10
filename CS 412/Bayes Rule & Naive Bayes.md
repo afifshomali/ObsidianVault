@@ -2,7 +2,7 @@
 tags:
   - CS412
 ---
----
+		x---
 ## Bayes Rule/Theorem:
 ---
 ![[{BD364A5A-65B2-4B92-B797-ABB9A42C63B9}.png]]

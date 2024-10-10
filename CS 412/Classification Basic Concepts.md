@@ -25,4 +25,8 @@ tags:
 
 ## [[Evaluation]]
 
+### - [[Evaluation#Model Selection|Model Selection]]
 
+## [[KNN]]
+
+## [[Ensemble Methods]]
