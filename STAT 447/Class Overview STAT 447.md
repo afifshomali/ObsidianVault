@@ -21,6 +21,7 @@ tags:
 - [[Pandas II]]
 - [[Time Series I]]
 - [[Time Series II]]
+- [[Images]]
 # Grading
 ---
 Midterm: 30%
