@@ -22,6 +22,8 @@ tags:
 - [[Time Series I]]
 - [[Time Series II]]
 - [[Images]]
+- [[Volumes & Volumetric Time Series]]
+
 # Grading
 ---
 Midterm: 30%
