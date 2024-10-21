@@ -24,6 +24,7 @@ tags:
 - [[Images]]
 - [[Volumes & Volumetric Time Series]]
 - [[Networks & Graphs]]
+- [[Randomization]]
 - 
 
 # Grading
