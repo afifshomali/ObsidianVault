@@ -15,6 +15,6 @@ tags:
 
 ## [[PCFG Decoding using CYK with Viterbi]]
 
-## [[Penn Tree bank Parsing]]
+## [[Penn Tree Bank Parsing]]
 
 
