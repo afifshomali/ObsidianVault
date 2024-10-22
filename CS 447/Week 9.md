@@ -9,8 +9,6 @@ tags:
 
 ## [[The CYK Parsing Algorithm]]
 
-## [[Statistical Parsing]]
-
 ## [[Probabilistic Context Free Grammars (PCFG)]]
 
 ## [[Shortcomings of PCFGs]]
