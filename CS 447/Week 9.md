@@ -13,9 +13,9 @@ tags:
 
 ## [[Probabilistic Context Free Grammars (PCFG)]]
 
-## [[PCFG Decoding using CYK with Viterbi]]
-
 ## [[Shortcomings of PCFGs]]
+
+## [[PCFG Decoding using CYK with Viterbi]]
 
 ## [[Penn Tree bank Parsing]]
 
