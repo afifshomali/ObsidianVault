@@ -1,0 +1,36 @@
+---
+tags:
+  - CS447
+---
+---
+## Review
+---
+![[{DEBDDC58-EC5B-4898-9A10-54453910E5D2}.png]]
+
+## IBM models
+---
+![[{65338A03-5907-4358-B7A7-1A8EBC6B7EC7}.png]]
+![[{3490A8DE-FA00-407E-8524-9FDA18166E0D}.png]]
+
+## Word Alignment
+---
+![[{AE1AC3FC-C25F-4DF7-9427-38B30F4C89E7}.png]]
+![[{68628C2E-B8D7-4E0B-BAC8-3DA3234307A3}.png]]
+![[{41854528-0416-4D80-B435-12712CC11C0F}.png]]
+![[{FFDA2324-638E-4A30-AF69-A99185F0218B}.png]]
+![[{F739BA1F-1821-45F7-B1B0-746BC9307104}.png]]
+Each source word $f[i]$ is aligned to one target word $e[j]$ (including NULL). We represent alignments as a vector **a** (of the same length as the source) with $a[i] =j$ 
+
+## IBM Alignment Model 1
+---
+![[{26C6F14C-A9C7-4F59-B0E7-A72CCB6E9E6C}.png]]![[{5A9719D3-FD1A-46B8-A534-CD059BABB29B} 1.png]]
+![[{A9B245AC-EC9C-4999-A56B-1BCDDE558CD3}.png]]
+![[{E102907E-5611-4D18-A2DD-8DB49E4F45A7}.png]]
+![[{1DE60504-5B34-4F22-A737-65C31A7375EE}.png]]
+![[{9AE5B27B-CFBD-4AD5-8CDE-A8A252541971}.png]]
+## EM Algorithm to train the model
+---
+![[{AFA5E3F2-3C94-4749-B1A1-F8B61391A0BA} 1.png]]
+![[{C04B3CE1-650A-4241-BC15-E0FF31229109}.png]]
+![[{22FA5BD0-6D4B-4B64-A8B4-330E00495F97}.png]]
+![[{6FFC23BF-4E23-4B55-AF51-081A73769814}.png]]
