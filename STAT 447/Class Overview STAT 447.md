@@ -25,7 +25,7 @@ tags:
 - [[Volumes & Volumetric Time Series]]
 - [[Networks & Graphs]]
 - [[Randomization]]
-- 
+- [[Permutations & Recursion]]
 
 # Grading
 ---
