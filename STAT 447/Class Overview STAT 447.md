@@ -26,6 +26,8 @@ tags:
 - [[Networks & Graphs]]
 - [[Randomization]]
 - [[Permutations & Recursion]]
+- [[Statistics]]
+
 
 # Grading
 ---
