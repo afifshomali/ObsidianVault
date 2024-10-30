@@ -27,6 +27,8 @@ tags:
 - [[Randomization]]
 - [[Permutations & Recursion]]
 - [[Statistics]]
+- [[Modeling]]
+- 
 
 
 # Grading
