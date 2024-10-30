@@ -13,4 +13,6 @@ tags:
 [[Week 7]]
 [[Week 8]]
 [[Week 9]]
+[[CS 447/Week 10|Week 10]]
+
 
