@@ -2,7 +2,7 @@
 tags:
   - CS412
 ---
-ew---
+---
 ## Basics
 ---
 ![[Pasted image 20240903110541.png]]
