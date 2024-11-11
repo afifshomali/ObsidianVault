@@ -28,7 +28,8 @@ tags:
 - [[Permutations & Recursion]]
 - [[Statistics]]
 - [[Modeling]]
-- [[]]
+- [[SQL]]
+- [[Linux]]
 
 
 # Grading
