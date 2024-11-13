@@ -10,7 +10,7 @@ tags:
 
 # [[Coreference Resolution]]
 
-# [[What makes Discourse Coherent?]]
+# [[What makes Discourse Coherent]]
 
 # [[Entity Based Coherence]]
 
