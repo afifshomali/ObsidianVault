@@ -13,6 +13,11 @@ tags:
 - [[STAT 542 Week 5]]
 - [[STAT 542 Week 6]]
 - [[STAT 542 Week 7]]
+
+## Campus Wire Weekly Notes
+---
+- [[Week 0 Pre-Reqs]]
+- 
 # Grading
 ---
 - Quizzes: 180 points = 40%
