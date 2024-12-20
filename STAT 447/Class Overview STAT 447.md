@@ -28,8 +28,12 @@ tags:
 - [[Permutations & Recursion]]
 - [[Statistics]]
 - [[Modeling]]
+- [[PyTorch]]
 - [[SQL]]
 - [[Linux]]
+- [[BASH]]
+- [[HPC and Parrallel]]
+- [[Compliation]]
 
 
 # Grading
