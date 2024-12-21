@@ -16,6 +16,10 @@ tags:
 [[CS 447/Week 10|Week 10]]
 [[CS 447/Week 11|Week 11]]
 [[CS 447/Week 12|Week 12]]
+[[CS 447/Week 13|Week 13]]
+[[Week 15|Week 15]]
+
+
 
 
 
