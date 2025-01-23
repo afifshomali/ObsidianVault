@@ -7,6 +7,7 @@ tags:
 # Map of Content
 ---
 - [[Google MapReduce]]
+- [[Google File System]]
 - [[Apache Hadoop]]
 # Grading
 ---

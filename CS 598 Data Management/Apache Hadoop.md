@@ -18,3 +18,4 @@ Hadoop Project = Distributed file system + MR engine (But MR engine was replaced
 ![[{F68007DA-7840-40AC-80A2-1692ED6BB805}.png]]
 ![[{9EE788FB-B6A1-462E-8E31-E484B731DA87}.png]]
 
+
