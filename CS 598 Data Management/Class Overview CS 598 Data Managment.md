@@ -9,6 +9,7 @@ tags:
 - [[Google MapReduce]]
 - [[Google File System]]
 - [[Apache Hadoop]]
+- [[Presto]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
