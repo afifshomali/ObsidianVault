@@ -72,6 +72,6 @@ Handles the placement of where we should be putting/getting our data from
 ## Summary
 ---
 - No single best cloud storage service
-- Can improve cost efficiency and performance by combined multiple serivces
+- Can improve cost efficiency and performance by combined multiple services
 - SPANStore abstraction to do this
 - Demonstrates we can empirically lower costs while meeting same SLO
