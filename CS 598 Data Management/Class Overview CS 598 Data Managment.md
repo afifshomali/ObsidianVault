@@ -10,6 +10,7 @@ tags:
 - [[Google File System]]
 - [[Apache Hadoop]]
 - [[Presto]]
+- [[SPANStore]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
