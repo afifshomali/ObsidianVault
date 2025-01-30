@@ -13,6 +13,3 @@ Benefits of partitioning data vertically:
 - If columns are accessed independently then one server is not a bottleneck for all queries
 - .......
 ![[{3AAED366-312F-426B-8B60-E0CCB7A3D471} 1.png]]
-## No SQL
----
-![[{898C1E1C-A6DA-4435-AE6C-B0EFAC1BFBA1}.png]]
