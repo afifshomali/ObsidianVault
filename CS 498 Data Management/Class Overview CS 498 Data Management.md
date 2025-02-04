@@ -10,5 +10,7 @@ tags:
 - [[Application Characteristics]]
 - [[Basic Data Models]]
 - [[NoSQL]]
+- [[Key Value Model]]
+- [[Document Data Model]]
 # Grading
 ---
