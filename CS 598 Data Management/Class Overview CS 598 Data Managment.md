@@ -11,6 +11,8 @@ tags:
 - [[Apache Hadoop]]
 - [[Presto]]
 - [[SPANStore]]
+- [[PushdownDB]]
+- [[FlexPushDownDB]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
