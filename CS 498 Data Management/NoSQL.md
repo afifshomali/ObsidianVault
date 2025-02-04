@@ -27,3 +27,16 @@ tags:
 ## Graph Data Model
 ---
 ![[Graph Data Model]]
+
+
+## Array Data Model
+---
+![[Array Data Model]]
+
+## Object Data Model
+---
+![[Object Data Model]]
+
+## Scalable Relational Systems
+---
+![[Scalable Relational Systems]]

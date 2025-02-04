@@ -10,7 +10,12 @@ tags:
 - [[Application Characteristics]]
 - [[Basic Data Models]]
 - [[NoSQL]]
-- [[Key Value Model]]
-- [[Document Data Model]]
+	- [[Key Value Model]]
+	- [[Document Data Model]]
+	- [[Column Family]]
+	- [[Graph Data Model]]
+	- [[Array Data Model]]
+	- [[Object Data Model]]
+	- [[Scalable Relational Systems]]
 # Grading
 ---
