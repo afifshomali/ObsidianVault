@@ -52,7 +52,30 @@ tags:
 
 ## [[Modeling Overview]]
 
+- [[Ensemble Models]]
+- [[Supervised Learning]]
+	- [[Regression]]
+		- [[Linear Regression DS]]
+		- [[GLM, ElasticNet, L1, L2]]
+	- [[Classification]]
+		- [[Logistic Regression DS]]
+		- [[Decision Trees]]
+		- [[Random Forest]]
+		- [[XGBoost]]
+		- [[CatBoost]]
+		- [[K-nearest Neighbor]]
+		- [[Support Vector Machines]]
 
+- [[Unsupervised Learning]]
+	- [[Clustering]]
+		- [[K-means Clustering]]
+		- [[Hierarchical Clustering]]
+		- [[DBScan]]
+	- [[Dimensionality Reduction]]
+		- [[PCA]]
+		- [[Linear Discriminant Analysis]]
 
-
-
+- [[Neural Networks DS]]
+- [[Transformers DS]]
+- [[Large Language Models]]
+- [[Reinforcement Learning]]
