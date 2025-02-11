@@ -6,6 +6,8 @@ tags:
 ---
 # Map of Content
 ---
+### Cloud
+---
 - [[Google MapReduce]]
 - [[Google File System]]
 - [[Apache Hadoop]]
@@ -14,6 +16,9 @@ tags:
 - [[PushdownDB]]
 - [[FlexPushDownDB]]
 - [[TELEPORT]]
+### VectorDB
+---
+- [[LSH, Local Sensitivity Hashing]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
