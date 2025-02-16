@@ -46,7 +46,7 @@ tags:
 ## [[Exploratory Data Analysis]]
 
 - [[Data Characteristics & Descriptive Statistics]]
-- [[Handling Outliers]]
+- [[Data Cleaning#Outliers & Unwanted Observations| Handling Outliers]]
 - [[Univariate, Bivariate & Multivariate Analysis]]
 - [[Data Visulization]]
 
@@ -71,7 +71,7 @@ tags:
 		- [[K-means Clustering]]
 		- [[Hierarchical Clustering]]
 		- [[DBScan]]
-	- [[Dimensionality Reduction]]
+	- [[Data Reduction, Dimensionality Reduction]]
 		- [[PCA]]
 		- [[Linear Discriminant Analysis]]
 

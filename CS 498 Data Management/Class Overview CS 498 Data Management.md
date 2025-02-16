@@ -17,5 +17,6 @@ tags:
 	- [[Array Data Model]]
 	- [[Object Data Model]]
 	- [[Scalable Relational Systems]]
+- [[Consistency]]
 # Grading
 ---

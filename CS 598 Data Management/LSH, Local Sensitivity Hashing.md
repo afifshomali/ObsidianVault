@@ -36,10 +36,23 @@ Very high dimension for the embedding , but it is a dense embedding so there are
 	- Cosine
 - Allows sublinear query time
 - Preprocessing varies based on data & representation
+ 
 ![[{651E14ED-AFEF-468A-A325-8A6A04E7CB2C}.png]]
 ![[{EBBF6CB6-83AB-4BF8-A38B-1813A3568279}.png]]
 ![[{9DF10194-46EC-4825-BB64-E0932D549620}.png]]
 Gaussian/Normal Distribution is a stable distribution since we can take linear combinations of normal distributions and getting a normal distribution as the result. 
 ![[{35DE2992-DC2B-4D39-B988-CFC614F451B6}.png]]
 
-A weakness of this approach is we can potentially pick a projection vector randomly that maps two close points to separate buckets even though they are close. Similarly, two far points can end up being mapped to the same bucket even though they are far away due to the probabilistic nature of this approach. 
+A weakness of this approach is we can potentially pick a projection vector randomly that maps two close points to separate buckets even though they are close. Similarly, two far points can end up being mapped to the same bucket even though they are far away due to the probabilistic nature of this approach.  
+
+Another is, If we have two points near the same border of buckets in different buckets, they are the nearest neighbor to each other compared to the other points in the buckets.
+## Practical Implementation
+---
+Each hash table employees multiple hash functions
+- data points really close to each other map to the same bucket 
+- might be too conservative
+Multiple independent hash tables following the above guidelines
+
+
+
+
