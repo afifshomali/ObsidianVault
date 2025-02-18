@@ -18,5 +18,6 @@ tags:
 	- [[Object Data Model]]
 	- [[Scalable Relational Systems]]
 - [[Consistency]]
+- [[Dynamo DB]]
 # Grading
 ---

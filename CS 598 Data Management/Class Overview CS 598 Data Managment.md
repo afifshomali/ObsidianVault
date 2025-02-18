@@ -19,6 +19,8 @@ tags:
 ### VectorDB
 ---
 - [[LSH, Local Sensitivity Hashing]]
+- [[Product Quantization]]
+- [[Hierarchical Navigable Small World, HNSW]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
