@@ -21,6 +21,7 @@ tags:
 - [[LSH, Local Sensitivity Hashing]]
 - [[Product Quantization]]
 - [[Hierarchical Navigable Small World, HNSW]]
+- [[DiskANN]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
