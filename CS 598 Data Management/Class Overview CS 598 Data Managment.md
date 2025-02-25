@@ -22,6 +22,7 @@ tags:
 - [[Product Quantization]]
 - [[Hierarchical Navigable Small World, HNSW]]
 - [[DiskANN]]
+- [[ACORN]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
