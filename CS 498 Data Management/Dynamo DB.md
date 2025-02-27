@@ -7,6 +7,7 @@ tags:
 
 ![[10-Dynamo-Part2.pdf]]
 
-## MongoDB/Part 3
+## MongoDB/Part 3 & 4
 ---
 ![[11-MongoDB-Part1-1.pdf]]
+![[12-MongoDB-Part2.pdf]]

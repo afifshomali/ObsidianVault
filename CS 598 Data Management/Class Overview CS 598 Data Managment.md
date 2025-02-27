@@ -4,6 +4,9 @@ tags:
   - SP2025
 ---
 ---
+Idea for project: 
+- DB BERT but test different baseline models & see if newer NLP models can achieve better performance ??
+- 
 # Map of Content
 ---
 ### Cloud
@@ -23,6 +26,10 @@ tags:
 - [[Hierarchical Navigable Small World, HNSW]]
 - [[DiskANN]]
 - [[ACORN]]
+
+### Tuning Database
+---
+- [[DB-BERT]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
