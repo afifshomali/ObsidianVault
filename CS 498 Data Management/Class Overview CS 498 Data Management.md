@@ -19,5 +19,6 @@ tags:
 	- [[Scalable Relational Systems]]
 - [[Consistency]]
 - [[Dynamo DB]]
+- [[Bigtable]]
 # Grading
 ---
