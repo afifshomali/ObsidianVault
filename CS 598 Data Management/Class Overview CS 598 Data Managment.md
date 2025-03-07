@@ -29,7 +29,9 @@ Idea for project:
 
 ### Tuning Database
 ---
-- [[DB-BERT]]
+- [[DB-BERT]] 
+- [[AirIndex]]
+- [[Bao]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
