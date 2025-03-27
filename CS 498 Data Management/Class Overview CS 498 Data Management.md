@@ -20,5 +20,7 @@ tags:
 - [[Consistency]]
 - [[Dynamo DB]]
 - [[Bigtable]]
+- [[Spark]]
+- [[Serverless Data Processing]]
 # Grading
 ---

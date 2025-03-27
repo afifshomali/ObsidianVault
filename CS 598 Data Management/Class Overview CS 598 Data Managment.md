@@ -9,6 +9,7 @@ Idea for project:
 - 
 # Map of Content
 ---
+- [[Midterm 1 Quick Reference]]
 ### Cloud
 ---
 - [[Google MapReduce]]
@@ -26,12 +27,15 @@ Idea for project:
 - [[Hierarchical Navigable Small World, HNSW]]
 - [[DiskANN]]
 - [[ACORN]]
+- [[Word2Vec]]
+- [[LLM Embeddings]]
 
 ### Tuning Database
 ---
 - [[DB-BERT]] 
 - [[AirIndex]]
 - [[Bao]]
+- [[QueryFormer]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
