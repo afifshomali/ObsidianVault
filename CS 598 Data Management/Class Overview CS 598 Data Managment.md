@@ -36,6 +36,10 @@ Idea for project:
 - [[AirIndex]]
 - [[Bao]]
 - [[QueryFormer]]
+
+### Inference
+---
+- [[ORCA]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
