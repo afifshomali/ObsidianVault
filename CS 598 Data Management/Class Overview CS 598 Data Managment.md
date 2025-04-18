@@ -41,6 +41,12 @@ Idea for project:
 ---
 - [[ORCA]] Does scheduler run on separate machine, ask before midterm
 - [[vLLM]]
+
+### RAG
+---
+- [[Prompt Cache]]
+- [[Cache Blend]]
+- [[Block Attention]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%
