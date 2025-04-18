@@ -39,7 +39,8 @@ Idea for project:
 
 ### Inference
 ---
-- [[ORCA]]
+- [[ORCA]] Does scheduler run on separate machine, ask before midterm
+- [[vLLM]]
 # Grading
 ---
 - Participation + Evaluating Student Presentations: 9%

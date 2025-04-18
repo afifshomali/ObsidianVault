@@ -22,5 +22,8 @@ tags:
 - [[Bigtable]]
 - [[Spark]]
 - [[Serverless Data Processing]]
+- [[Hive]]
+- [[FoundationalDB (FDB)]]
+- [[VoltDB]]
 # Grading
 ---
