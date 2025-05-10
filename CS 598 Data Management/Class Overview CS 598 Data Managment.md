@@ -10,6 +10,7 @@ Idea for project:
 # Map of Content
 ---
 - [[Midterm 1 Quick Reference]]
+- [[Midterm 2 Quick Reference]]
 ### Cloud
 ---
 - [[Google MapReduce]]
